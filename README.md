@@ -7,6 +7,7 @@
 
 1.  miniMaxSum
     >> see the pdf file
+    
     >> checkout : https://scrimba.com/scrim/co7594bc8963400133a284f74
     
 2. ...
