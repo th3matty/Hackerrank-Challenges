@@ -4,14 +4,4 @@
 
 > For each problem i will provide an online editor which includes the function and tests with jasmine
 
-# :eyes: List of Content:  :clipboard:
-
-1.  miniMaxSum
-    >> see the pdf file
-    
-    >> checkout : https://scrimba.com/scrim/co7594bc8963400133a284f74
-    
-2. Birthday Cake Candles
-    >> see the pdf file
-    
-    >> checkout : https://scrimba.com/scrim/cEZBBBhE
+> Switch to Branch => PDF-Files, to see the pdf files and of course my solution
